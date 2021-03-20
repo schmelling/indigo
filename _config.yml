@@ -5,7 +5,7 @@ bio: Founder of CyanoWorld
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile_new.jpg
 
 url: https://schmelling.github.io
 permalink: /:title/
